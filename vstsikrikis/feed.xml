@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1EE2BEF9-6204-4556-9557-A17411CD2215</id>
+ <title>Page list Atom feed</title>
+ <updated>2016-11-01T21:47:10+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:244FB7D4-165C-4681-9346-ADDAC18A9B4F</id>
+  <title>ΑΡΧΙΚΗ</title>
+  <title xmlns="urn:iweb:">ΑΡΧΙΚΗ</title>
+  <in-navbar xmlns="urn:iweb:">244FB7D4-165C-4681-9346-ADDAC18A9B4F</in-navbar>
+  <link rel="alternate" href="ARCHIKE.html"/>
+  <updated>2016-11-01T21:47:10.001+02:00</updated>
+  <content>ΑΡΧΙΚΗ</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:629F2C5A-ADC7-4EEF-8A58-6AB780637F33</id>
+  <title>ΒΙΝΤΕΟ</title>
+  <title xmlns="urn:iweb:">ΒΙΝΤΕΟ</title>
+  <in-navbar xmlns="urn:iweb:">629F2C5A-ADC7-4EEF-8A58-6AB780637F33</in-navbar>
+  <link rel="alternate" href="BINTEO.html"/>
+  <updated>2016-11-01T21:47:10.002+02:00</updated>
+  <content>ΒΙΝΤΕΟ</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:555816AD-5BCF-45BB-AD70-FB5A9B290707</id>
+  <title>ΥΠΗΡΕΣΙΕΣ</title>
+  <title xmlns="urn:iweb:">ΥΠΗΡΕΣΙΕΣ</title>
+  <in-navbar xmlns="urn:iweb:">555816AD-5BCF-45BB-AD70-FB5A9B290707</in-navbar>
+  <link rel="alternate" href="YPERESIES.html"/>
+  <updated>2016-11-01T21:47:10.003+02:00</updated>
+  <content>ΥΠΗΡΕΣΙΕΣ</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:AF947C41-2E31-4601-B3EA-142E96F02A7B</id>
+  <title>ΒΙΟΓΡΑΦΙΚΟ</title>
+  <title xmlns="urn:iweb:">ΒΙΟΓΡΑΦΙΚΟ</title>
+  <in-navbar xmlns="urn:iweb:">AF947C41-2E31-4601-B3EA-142E96F02A7B</in-navbar>
+  <link rel="alternate" href="BIOGRAPHIKO.html"/>
+  <updated>2016-11-01T21:47:10.004+02:00</updated>
+  <content>ΒΙΟΓΡΑΦΙΚΟ</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:444D5923-5227-45E6-ABDA-856C162D80CD</id>
+  <title>e-Shop</title>
+  <title xmlns="urn:iweb:">e-Shop</title>
+  <in-navbar xmlns="urn:iweb:">444D5923-5227-45E6-ABDA-856C162D80CD</in-navbar>
+  <link rel="alternate" href="e-Shop.html"/>
+  <updated>2016-11-01T21:47:10.005+02:00</updated>
+  <content>e-Shop</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:CBA2E2FD-2D50-483C-8D56-D7FA4714F7A8</id>
+  <title>ΕΠΙΚΟΙΝΩΝΙΑ</title>
+  <title xmlns="urn:iweb:">ΕΠΙΚΟΙΝΩΝΙΑ</title>
+  <in-navbar xmlns="urn:iweb:">CBA2E2FD-2D50-483C-8D56-D7FA4714F7A8</in-navbar>
+  <link rel="alternate" href="EPIKOINONIA.html"/>
+  <updated>2016-11-01T21:47:10.006+02:00</updated>
+  <content>ΕΠΙΚΟΙΝΩΝΙΑ</content>
+ </entry>
+</feed>
